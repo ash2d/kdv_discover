@@ -1,6 +1,6 @@
 # Dataset Description: kdv_data_for_workshop.mat
 
-This dataset contains numerical data from the KdV equation.  
+This dataset contains numerical data from the KdV equation. An working example with PySR is given in   
 
 ## Variables  
 
