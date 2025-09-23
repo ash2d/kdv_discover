@@ -26,7 +26,7 @@ This dataset contains numerical data from the KdV equation. A working example wi
   - Space (N): 400 points  
   - Time (Nt): 10 snapshots  
   - Cases (N_case): 8 independent cases  
-- Overall shape: 400 × 10 × 8 = 32000 rows  
+- Overall shape: 8 × 10 × 400 = 32000 rows  
 
 Row ordering follows:  
 
