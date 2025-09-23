@@ -4,7 +4,7 @@ This dataset contains numerical data from the KdV equation. A working example wi
 
 ## Variables  
 
-### u_only_mat_reshaped (size: 32000 × 5) 
+### u_only_mat_reshaped (size: 8 x 10 x 400) 
 - only contains the u variable
 - First dimension is the number of cases (8)
 - The second dimension is the number of time snapshots (10)
